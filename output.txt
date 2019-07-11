@@ -1,0 +1,18 @@
+total 456
+-rw-r--r--@ 1 munoz  staff  175737 Feb 27  2018 415_HW3.pdf
+-rw-r--r--  1 munoz  staff     157 Feb 27  2018 CMakeLists.txt
+-rw-r--r--  1 munoz  staff    1074 Feb 27  2018 LICENSE
+-rw-r--r--  1 munoz  staff      77 Feb 27  2018 Makefile
+-rw-r--r--@ 1 munoz  staff      11 Feb 27  2018 README.md
+-rwxr-xr-x  1 munoz  staff   13324 Mar 16  2018 a.out
+-rw-r--r--@ 1 munoz  staff   20699 Mar 16  2018 myshell.c
+-rw-r--r--@ 1 munoz  staff       0 Jul 10 17:45 output.txt
+total 464
+-rw-r--r--@ 1 munoz  staff  175737 Feb 27  2018 415_HW3.pdf
+-rw-r--r--  1 munoz  staff     157 Feb 27  2018 CMakeLists.txt
+-rw-r--r--  1 munoz  staff    1074 Feb 27  2018 LICENSE
+-rw-r--r--  1 munoz  staff      77 Feb 27  2018 Makefile
+-rw-r--r--@ 1 munoz  staff      11 Feb 27  2018 README.md
+-rwxr-xr-x  1 munoz  staff   13324 Mar 16  2018 a.out
+-rw-r--r--@ 1 munoz  staff   20699 Mar 16  2018 myshell.c
+-rw-r--r--@ 1 munoz  staff     475 Jul 10 17:45 output.txt
